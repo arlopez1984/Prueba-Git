@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>"&lt;Environment&gt;&lt;Session&gt;&lt;User&gt;&lt;UserIDValue=admin/&gt;&lt;PasswordValue=/&gt;&lt;TrustedConnectionValue=False/&gt;&lt;/User&gt;&lt;SQLServerNameValue=192.168.10.101\SQLNESCOR/&gt;&lt;DBNameValue=Sage500_app/&gt;&lt;CompanyIDValue=ULS/&gt;&lt;/Session&gt;&lt;Task&gt;&lt;TaskIDValue=1010089033/&gt;&lt;/Task&gt;&lt;/Environment&gt;"</StartArguments>
+  </PropertyGroup>
+</Project>
